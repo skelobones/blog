@@ -1,5 +1,10 @@
 ---
-title: Index
+title: Homepage
+tags:
+publish: true
+publishDate: 2026-07-13
+aliases:
+enableToc:
 ---
 Welcome to my blog!
 

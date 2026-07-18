@@ -236,7 +236,7 @@ plugins:
       limit: 2
       showTags: true
       title: "Recent Posts"
-      linkToMore: true
+      linkToMore: false
     layout:
       position: left
       order: 40

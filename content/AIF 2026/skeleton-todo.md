@@ -28,7 +28,7 @@ I think that creating a template that I can fill in may serve a good starting po
 > ## \<event\>
 > // An event will be defined as a process I did, a conversation I had or an action that was (at least somewhat) a significant step of progress towards reaching my goal.
 > ### NEOL
-// Images, scanned documents (obfuscated for public) etc.
+>// Images, scanned documents (obfuscated for public) etc.
 > ## \<event\>
 >Lorum
 >### NEOL

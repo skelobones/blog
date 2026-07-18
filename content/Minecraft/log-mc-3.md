@@ -1,5 +1,5 @@
 ---
-title: Innovations (C:Aeronautics)
+title: "[3] Innovations (C:Aeronautics)"
 tags:
   - Minecraft
 publish: true

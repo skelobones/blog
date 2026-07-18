@@ -1,5 +1,5 @@
 ---
-title: What is AIF?
+title: "[Introduction] What is AIF?"
 tags:
 publish: true
 publishDate: 2026-07-13
@@ -18,3 +18,9 @@ The point of the subject is to train the ability to learn something by yourself 
 We have around 10 weeks for the project itself while the remaining 8 weeks are to collate natural evidence of learning (NEOL) into a timeline. We also have a reflection task after all that. 2 weeks in (not including school holidays) and I already have a lot of stuff to collect.
 
 My personal project [[project-plan|that I plan]] to complete is a **custom slot car**. 
+
+***
+
+>[!important] Ordering of Posts
+>The `previous` and `next` buttons found at the bottom of each page serve the purpose of compiling my work into a legible order. I've done some progress and recorded NEOL before having a proper plan set out. I want to make it easy for **you** to understand what's going on.
+

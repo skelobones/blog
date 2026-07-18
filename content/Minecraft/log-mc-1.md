@@ -1,5 +1,5 @@
 ---
-title: Starting the World
+title: "[1] Starting the World"
 tags:
   - Minecraft
 publish: true

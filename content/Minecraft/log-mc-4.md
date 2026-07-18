@@ -1,5 +1,5 @@
 ---
-title: Entering the Nether
+title: "[4] Entering the Nether"
 tags:
   - Minecraft
 publish: true

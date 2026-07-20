@@ -160,7 +160,7 @@ plugins:
     enabled: true
     layout:
       position: left
-      priority: 50
+      priority: 70
   - source: github:quartz-community/graph
     enabled: true
     layout:
@@ -239,6 +239,7 @@ plugins:
       linkToMore: false
     layout:
       position: left
+      priority: 60
       order: 40
       shrink: true
   - source: github:quartz-community/spacer

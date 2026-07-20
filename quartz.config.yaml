@@ -156,6 +156,18 @@ plugins:
     enabled: true
   - source: github:quartz-community/tag-page
     enabled: true
+   - source: github:quartz-community/recent-notes
+    enabled: true
+    options:
+      limit: 2
+      showTags: true
+      title: "Recent Posts"
+      linkToMore: false
+    layout:
+      position: left
+      priority: 60
+      order: 40
+      shrink: true
   - source: github:quartz-community/explorer
     enabled: true
     layout:
@@ -230,18 +242,6 @@ plugins:
     options:
       links:
         Carrd: https://skelobones.carrd.co
-  - source: github:quartz-community/recent-notes
-    enabled: true
-    options:
-      limit: 2
-      showTags: true
-      title: "Recent Posts"
-      linkToMore: false
-    layout:
-      position: left
-      priority: 60
-      order: 40
-      shrink: true
   - source: github:quartz-community/spacer
     enabled: true
     options: {}

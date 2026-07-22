@@ -1,5 +1,5 @@
 ---
-title: Building an Airship
+title: "[2] Building an Airship"
 tags:
   - Minecraft
 publish: true

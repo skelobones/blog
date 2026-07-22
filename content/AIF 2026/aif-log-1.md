@@ -23,8 +23,8 @@ Kinesthetic learning is 'hands on' education. Not necessarily 'experience' but t
 I did the VARK survey tonight:
 
 >[!important] Your Learning Preference: **VAK Integrative**
-Keywords: diagrams, maps, symbols, discussion, questioning, experiences, examples, things that are _real_
-You prefer information presented graphically using elements, such as diagrams and graphs, and you like listening and talking about information as well as having practical experience of what you are learning.
+>Keywords: diagrams, maps, symbols, discussion, questioning, experiences, examples, things that are _real_
+>You prefer information presented graphically using elements, such as diagrams and graphs, and you like listening and talking about information as well as having practical experience of what you are learning.
 
 >[!check] Your Scores
 >Visual 9

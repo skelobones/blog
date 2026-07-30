@@ -9,6 +9,7 @@ aliases:
 enableToc: false
 next:
 ---
+
 AIF is a revision of the Research Project subject that all Year 12s (17-18yo senior highschoolers) must complete. This is the stage in Australian school where we students get to make a lot of our own choices. I'm very excited for this subject!
 
 >*"Students will begin this subject with varying levels of understanding of their individual agency, self-regulation, metacognition, reflective practice, and evaluative judgement..."*

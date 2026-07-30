@@ -4,6 +4,6 @@ tags:
 publish: 
 publishDate:
 aliases:
-  - Example "also known as"
+  - Example "aka"
 enableToc:
 ---

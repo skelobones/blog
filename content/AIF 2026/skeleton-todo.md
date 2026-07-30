@@ -1,7 +1,7 @@
 ---
 title: Skeleton of a Plan
 tags:
-publish: true
+publish: false
 publishDate: 2026-07-18
 aliases:
 enableToc: false

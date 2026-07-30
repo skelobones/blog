@@ -1,7 +1,7 @@
 ---
 title: "[Introduction] What is AIF?"
 tags:
-publish: true
+publish: false
 publishDate: 2026-07-13
 aliases:
   - whats aif

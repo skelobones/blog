@@ -232,17 +232,6 @@ plugins:
         Carrd: https://skelobones.carrd.co
   - source: github:quartz-community/recent-notes
     enabled: true
-<<<<<<< HEAD
-    options:
-      limit: 2
-      showTags: true
-      title: "Recent Posts"
-      linkToMore: false
-    layout:
-      position: left
-      order: 40
-      shrink: true
-=======
     layout:
       position: left
       priority: 16
@@ -251,7 +240,6 @@ plugins:
       showTags: false
       hideTagPages: false
       hideFolderPages: false
->>>>>>> 1ccd8ca2646613cf15f45a537213adb4569c31a7
   - source: github:quartz-community/spacer
     enabled: true
     options: {}

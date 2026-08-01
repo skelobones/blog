@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: skelobones.github.io/blog
+  baseUrl: skelobones.github.io
   ignorePatterns:
     - private
     - templates

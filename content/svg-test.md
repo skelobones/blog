@@ -14,8 +14,8 @@ Play with the **dark mode icon** at the top to see how (or if) the image changes
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
 	<style>
 		tspan { white-space:pre } 
-		.s0 { fill: none;stroke: #000000;stroke-miterlimit:10 } 
-		.t1 { font-size: 8px;fill: #000000;font-weight: 400;font-family: "OpenSansRoman-Regular", "Open Sans" } 
+		.s0 { fill: none;stroke: currentColor;stroke-miterlimit:10 } 
+		.t1 { font-size: 8px;fill: currentColor;font-weight: 400;font-family: "OpenSansRoman-Regular", "Open Sans" } 
 	</style>
 	<g id="Layer 1">
 		<path id="Shape 2" fill-rule="evenodd" class="s0" d="m9.05 219.4c1.13 0.82 7.01 0.3 7.58 0.31 8.15 0.15 8.52 0.21 17.57 0.29 23.57 0.21 47.14-0.15 70.72-0.15"/>

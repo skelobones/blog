@@ -62,3 +62,9 @@ Play with the **dark mode icon** at the top to see how (or if) the image changes
 		</text>
 	</g>
 </svg>
+
+Update: after trail, error, trial, error and impatience, I've resorted to DurrAI to help me. It repeatedly said to use 'inline svg' meaning I copypaste the ENTIRE svg into my article, then I found I had to go through and replace `#000000` with `currentColor`. At this point I might as well just commission my friend to make a plugin that replaces different Styles with different colour variables. 
+
+>[!example]
+>`(giant copypasted .svg file)` → simply writing `![[vector.svg]]`. Then, when Quartz 'builds' it will grab the link to the file and pull it apart to rewrite it as the copypasted file. So I don't actually have to type it out myself!
+>And at that point instead of using `<style> styleNameHere { stroke: currentColor } </style>` I can use `<style> styleNameHere { stroke: var(--dark)} </style>` to use the Quartz theme's style.

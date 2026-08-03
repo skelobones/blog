@@ -160,7 +160,7 @@ plugins:
     enabled: true
     layout:
       position: left
-      priority: 50
+      priority: 80
   - source: github:quartz-community/graph
     enabled: true
     layout:
@@ -234,7 +234,7 @@ plugins:
     enabled: true
     layout:
       position: left
-      priority: 16
+      priority: 70
     options:
       limit: 3
       showTags: false

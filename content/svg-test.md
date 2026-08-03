@@ -11,4 +11,4 @@ I want to draw things for this website that are positive/negative. However, with
 
 Play with the **dark mode icon** at the top to see how (or if) the image changes color!
 
-![[BulkFans.svg|500]]
+![non existing alt text](BulkFans.svg)

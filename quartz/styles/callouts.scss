@@ -118,6 +118,17 @@
     --callout-icon: var(--callout-icon-quote);
   }
 
+  /*My custom callouts here :)*/
+  &[data-callout="center"] {
+    text-align: center;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    padding: 0;
+  }
+
+  /*Divider. Custom stuff above ^ */
+
   &.is-collapsed {
     & > .callout-title > .fold-callout-icon {
       transform: rotateZ(-90deg);
@@ -184,4 +195,13 @@
   .callout-title-inner {
     font-weight: $semiBoldWeight;
   }
+}
+
+/* further custom yadda yadda; for Center func */
+.callout[data-callout="center"] .callout-title {
+    display: none;
+}
+
+.callout[data-callout="center"] .callout-content {
+    margin: 0 auto;
 }

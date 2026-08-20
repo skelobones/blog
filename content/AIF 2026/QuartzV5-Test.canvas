@@ -1,86 +1,10 @@
 {
 	"nodes":[
-		{
-			"id":"be65be6ac0fb5abd",
-			"type":"text",
-			"text":"This is a canvas solely for me to test if it works or if it workn't.",
-			"dynamicHeight":false,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-240,
-			"y":-240,
-			"width":320,
-			"height":140
-		},
-		{
-			"id":"8b83a6400fe6ba0b",
-			"type":"text",
-			"text":"Innovation",
-			"dynamicHeight":false,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-60,
-			"y":20,
-			"width":300,
-			"height":120
-		},
-		{
-			"id":"1111e9c6642f342f",
-			"type":"text",
-			"text":"[[index.md]]",
-			"dynamicHeight":false,
-			"styleAttributes":{"textAlign":"center"},
-			"x":220,
-			"y":-240,
-			"width":140,
-			"height":120
-		},
-		{
-			"id":"70b3e351b94ae4eb",
-			"type":"text",
-			"text":"Coloured box here",
-			"dynamicHeight":false,
-			"styleAttributes":{"textAlign":"center"},
-			"x":-280,
-			"y":-660,
-			"width":900,
-			"height":340,
-			"color":"1"
-		},
-		{
-			"id":"b3c566a3b9ddbf32",
-			"type":"text",
-			"text":"```mermaid\nflowchart TD\n\nid1 --> id2\n--> id3\nid2 --> id4\n--> id1\n```",
-			"dynamicHeight":false,
-			"styleAttributes":{"textAlign":"center"},
-			"x":660,
-			"y":-650,
-			"width":440,
-			"height":940
-		}
+		{"id":"6acc6aa2027c1824","type":"file","file":"Settings/Imports/aif-progress-check-1-timeline-transparent.png","dynamicHeight":true,"x":1820,"y":-1280,"width":4730,"height":1694}
 	],
-	"edges":[
-		{
-			"id":"0f79cc073a50dc18",
-			"styleAttributes":{"pathfindingMethod":"a-star"},
-			"fromFloating":false,
-			"toFloating":false,
-			"fromNode":"be65be6ac0fb5abd",
-			"fromSide":"bottom",
-			"toNode":"8b83a6400fe6ba0b",
-			"toSide":"top"
-		},
-		{
-			"id":"00064838927bfb89",
-			"styleAttributes":{"pathfindingMethod":"a-star"},
-			"fromFloating":true,
-			"toFloating":false,
-			"fromNode":"8b83a6400fe6ba0b",
-			"fromSide":"right",
-			"toNode":"1111e9c6642f342f",
-			"toSide":"bottom"
-		}
-	],
+	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",
-		"frontmatter":{}
+		"frontmatter":{"title":"(Timeline) Progress Check 1","publish":true,"publishDate":"2026-08-20"}
 	}
 }

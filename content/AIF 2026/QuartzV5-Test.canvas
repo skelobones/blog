@@ -4,46 +4,57 @@
 			"id":"be65be6ac0fb5abd",
 			"type":"text",
 			"text":"This is a canvas solely for me to test if it works or if it workn't.",
-			"dynamicHeight":true,
+			"dynamicHeight":false,
 			"styleAttributes":{"textAlign":"center"},
 			"x":-240,
-			"y":-160,
+			"y":-240,
 			"width":320,
-			"height":60
+			"height":140
 		},
 		{
 			"id":"8b83a6400fe6ba0b",
 			"type":"text",
 			"text":"Innovation",
-			"dynamicHeight":true,
+			"dynamicHeight":false,
 			"styleAttributes":{"textAlign":"center"},
-			"x":-80,
+			"x":-60,
 			"y":20,
-			"width":320,
-			"height":40
+			"width":300,
+			"height":120
 		},
 		{
 			"id":"1111e9c6642f342f",
 			"type":"text",
 			"text":"[[index.md]]",
-			"dynamicHeight":true,
+			"dynamicHeight":false,
 			"styleAttributes":{"textAlign":"center"},
 			"x":220,
-			"y":-160,
+			"y":-240,
 			"width":140,
-			"height":40
+			"height":120
 		},
 		{
 			"id":"70b3e351b94ae4eb",
 			"type":"text",
 			"text":"Coloured box here",
-			"dynamicHeight":true,
+			"dynamicHeight":false,
 			"styleAttributes":{"textAlign":"center"},
-			"x":-80,
-			"y":-320,
-			"width":320,
-			"height":40,
+			"x":-280,
+			"y":-660,
+			"width":900,
+			"height":340,
 			"color":"1"
+		},
+		{
+			"id":"b3c566a3b9ddbf32",
+			"type":"text",
+			"text":"```mermaid\nflowchart TD\n\nid1 --> id2\n--> id3\nid2 --> id4\n--> id1\n```",
+			"dynamicHeight":false,
+			"styleAttributes":{"textAlign":"center"},
+			"x":660,
+			"y":-650,
+			"width":440,
+			"height":940
 		}
 	],
 	"edges":[
